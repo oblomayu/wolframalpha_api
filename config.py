@@ -14,7 +14,7 @@ class Config:
 
         # Проверяем, что ключ задан
         self.app_id = data.get("app_id")
-        if not self.app_id or self.app_id == "YOUR-APP-ID-HERE":
+        if not self.app_id or self.app_id == "your_api":
             raise ValueError("В config.json не указан корректный app_id")
 
         self.timeout = data.get("timeout", 15)
