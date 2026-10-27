@@ -1,0 +1,373 @@
+Запрос: 
+Ответ:  integral x^2 sin^3(x) dx = 1/108 (-81 (x^2 - 2) cos(x) + (9 x^2 - 2) cos(3 x) - 6 x (sin(3 x) - 27 sin(x))) + constant
+------------------------------------------------------------
+  [Indefinite integral]
+    integral x^2 sin^3(x) dx = 1/108 (-81 (x^2 - 2) cos(x) + (9 x^2 - 2) cos(3 x) - 6 x (sin(3 x) - 27 sin(x))) + constant
+  [Series expansion of the integral at x = 0]
+    40/27 + x^6/6 - x^8/16 + O(x^9)
+(Taylor series)
+
+Запрос: 
+Ответ:  145 million people (2023 projection) (world rank: 9th) (2024 estimate)
+------------------------------------------------------------
+  [Input interpretation]
+    Russia | population | 2024
+  [Result]
+    145 million people (2023 projection) (world rank: 9th) (2024 estimate)
+  [Demographics]
+    population | 145 million people (2023 projection) (world rank: 9th) (2024 estimate)
+population density | 8.84 people/km^2 (people per square kilometer) (world rank: 222nd) (2024 estimate)
+  [Largest cities]
+    city | population
+Moscow, Central | 13.01 million people
+Saint Petersburg, Admiralteysky | 5.602 million people
+Novosibirsk | 1.634 million people
+Yekaterinburg | 1.344 million people
+Nizhny Novgorod | 1.213 million people
+(2006, 2010, 2015, 2016, 2017, 2018, 2021, 2023, and 2024 estimates)
+  [Comparisons]
+     ≈ ( 0.019 ≈ 1/54 ) × world population ( 7.795 billion people )
+     ≈ 0.69 × current population of Brazil ( 209.3 million people )
+     ≈ 1.4 × current population of Philippines ( 104.9 million people )
+
+Запрос: 
+Ответ:  98.07 g/mol (grams per mole)
+------------------------------------------------------------
+  [Input interpretation]
+    sulfuric acid | molar mass
+  [Result]
+    98.07 g/mol (grams per mole)
+  [Unit conversion]
+    0.09807 kg/mol (kilograms per mole)
+  [Comparisons as molar mass]
+     ≈ ( 0.14 ≈ 1/7 ) × molar mass of fullerene ( 720.642 g/mol )
+     ≈ 0.51 × molar mass of caffeine ( 194.191 g/mol )
+     ≈ 1.7 × molar mass of sodium chloride ( 58.443 g/mol )
+  [Corresponding quantities]
+    Mass of a molecule m from m = M/N_A:
+ | 1.6 × 10^-22 grams
+ | 1.6 × 10^-25 kg (kilograms)
+ | 98 u (unified atomic mass units)
+ | 98 Da (daltons)
+    Relative molecular mass M_r from M_r = M_u/M:
+ | 98
+
+Запрос: 
+Ответ:  kinetic energy | 250 J (joules)
+= 0.06944 W h (watt hours)
+= 1.56 × 10^12 GeV (gigaelectronvolts)
+------------------------------------------------------------
+  [Input information]
+    kinetic energy | 
+mass | 5 kg (kilograms)
+velocity | 10 m/s (meters per second)
+  [Result]
+    kinetic energy | 250 J (joules)
+= 0.06944 W h (watt hours)
+= 1.56 × 10^12 GeV (gigaelectronvolts)
+  [Equation]
+    K = (m v^2)/2 | 
+K | kinetic energy
+m | mass
+v | velocity
+(the energy of an object due to its motion)
+
+Запрос: 
+Ответ:  636.2 km (kilometers)
+------------------------------------------------------------
+  [Input interpretation]
+    distance | from | Moscow, Tsentralniy, Russia
+to | Saint Petersburg, Admiralteyskiy, Russia
+  [Result]
+    636.2 km (kilometers)
+  [Unit conversions]
+    395.3 miles
+    636.2 km (kilometers)
+    636161 meters
+    6.362 × 10^7 cm (centimeters)
+    343.5 nmi (nautical miles)
+  [Direct travel times]
+    aircraft (885 km/h) | 43 minutes
+sound | 31 minutes
+light in fiber | 3 ms (milliseconds)
+light in vacuum | 2 ms (milliseconds)
+(assuming constant-speed great-circle path)
+
+Запрос: 
+Ответ:  8080.04 ₽ (Russian rubles) (26 October 2026)
+------------------------------------------------------------
+  [Input interpretation]
+    convert $100 (US dollars) to Russian rubles
+  [Result]
+    8080.04 ₽ (Russian rubles) (26 October 2026)
+  [Local currency conversion for $100 (US dollars)]
+    €89.69 (euros) (27 October 2026)
+  [Exchange history for $100 (US dollars)]
+    
+1-year minimum | 7084.76 ₽ (28 May 2026 | 5 months ago)
+1-year maximum | 8729.72 ₽ (2 September 2026 | 2 months ago)
+1-year average | 7889.52 ₽ (annualized volatility: 13%)
+  [Additional currency conversions for $100 (US dollars)]
+    CNY | ￥666.75 (Chinese yuan)
+JPY | ¥15782 (Japanese yen)
+GBP | £75.03 (British pounds)
+CAD | C$140.23 (Canadian dollars)
+MXN | $1863.68 (Mexican pesos)
+GTQ | Q764.46 (Guatemala quetzales)
+CRC | ₡45521.40 (Costa Rican colones)
+HNL | L2698.33 (Honduran lempiras)
+JMD | J$15877.60 (Jamaican dollars)
+XAU | 0.02 oz (gold ounces)
+XAG | 1.86 oz (silver ounces)
+
+Запрос: 
+Ответ:  8:56:19 pm MSK | Tuesday, October 27, 2026
+------------------------------------------------------------
+  [Input interpretation]
+    current time in Kazan, Kazan', Russia
+  [Result]
+    8:56:19 pm MSK | Tuesday, October 27, 2026
+  [Time offset from CET]
+    +2 hours
+  [Clocks]
+    Moscow
+
+8:56:19 pm MSK
+Tuesday, October 27 Doetinchem, Netherlands
+
+6:56:19 pm CET
+Tuesday, October 27
+  [Time until midnight (MSK)]
+    3 hours 3 minutes 41 seconds
+  [Current Greenwich mean time]
+    5:56:19 pm GMT | Tuesday, October 27, 2026
+
+Запрос: 
+Ответ:  1.467 au (astronomical units)
+------------------------------------------------------------
+  [Input interpretation]
+    Mars | distance from Earth
+  [Current result]
+    1.467 au (astronomical units)
+  [Unit conversions]
+    2.194 × 10^8 km (kilometers)
+    2.194 × 10^11 meters
+    136.3 million miles
+  [Comparisons as distance]
+     ≈ ( 0.017 ≈ 1/60 ) × smallest distance from the Sun to the heliosheath ( 79 to 100 au )
+     ≈ 1.5 × mean Earth-Sun distance ( 1.0000010178 au )
+  [Corresponding quantities]
+    Light travel time t in vacuum from t = x/c:
+ | 12 minutes
+    Light travel time t in an optical fiber t = 1.48x/c:
+ | 18 minutes
+    Solar radiation pressure from P = L_☉/(c4πr^2):
+ | 2.1 μPa (micropascals)
+ | (assuming solar constant ≈ 1.36 kW/m^2)
+  [Orbital properties]
+    current distance from Earth | 1.467 au
+12.2 light minutes
+average distance from Earth | 1.7 au
+14.1 light minutes
+current distance from Sun | 1.59 au
+13.22 light minutes
+apoapsis | 2.4922873 × 10^8 km
+1.66599116 au
+periapsis | 2.06644545 × 10^8 km
+1.38133346 au
+orbital period | 1.8808476 a
+
+Запрос: 
+Ответ:  body mass index | 23.15
+------------------------------------------------------------
+  [Input information]
+    body mass index | 
+height | 180 cm (centimeters)
+body weight | 75 kg (kilograms)
+  [Result]
+    body mass index | 23.15
+  [Equation]
+    BMI = W/H^2 | 
+BMI | body mass index
+H | height
+W | body weight
+(based on Quetelet's formula)
+  [International weight classification]
+    normal range (18.5-25)
+  [BMI prime]
+    0.926
+  [Comparison to USA population]
+     | 95% reference range | percentile rank | z-score | distribution
+height | (150 to 189) cm (centimeters) | 85.2% | 1.1 | 
+weight | (49 to 128) kg (kilograms) | 44.5% | -0.27 | 
+body mass index | (19 to 44) | 22.1% | -0.78 | 
+
+Запрос: 
+Ответ:  translate | hello | to Russian
+------------------------------------------------------------
+  [Input interpretation]
+    translate | hello | to Russian
+  [Results]
+    (noun) привет | приветствие
+Здравствуйте
+
+Запрос: 
+Ответ:  x = 2
+------------------------------------------------------------
+  [Input interpretation]
+    solve x^2 - 5 x + 6 = 0
+  [Results]
+    x = 2
+    x = 3
+  [Sum of roots]
+    5
+  [Product of roots]
+    6
+
+Запрос: 
+Ответ:  1.079 × 10^9 km/h (kilometers per hour)
+------------------------------------------------------------
+  [Input interpretation]
+    convert 1 c (speed of light) to kilometers per hour
+  [Result]
+    1.079 × 10^9 km/h (kilometers per hour)
+  [Additional conversions]
+    6.706 × 10^8 mph (miles per hour)
+    299792 km/s (kilometers per second)
+    2.998 × 10^8 m/s (meters per second)
+    186282 mi/s (miles per second)
+  [Comparison as speed]
+     ≈ 2.4 × speed of light in diamond ( ≈ 1.24 × 10^8 m/s )
+  [Interpretations]
+    speed
+  [Basic unit dimensions]
+    [length] [time]^(-1)
+  [Corresponding quantities]
+    Time to travel 1 meter from t = d/v:
+ | 3.3 ns (nanoseconds)
+    Time to travel 1 kilometer from t = d/v:
+ | 3.3 μs (microseconds)
+    Slowness from s = 1/v:
+ | 3.3 × 10^-9 s/m (seconds per meter)
+
+Запрос: 
+Ответ:  2.998 × 10^8 m/s (meters per second)
+------------------------------------------------------------
+  [Input interpretation]
+    c (speed of light)
+  [Value]
+    2.998 × 10^8 m/s (meters per second)
+    299792 km/s (kilometers per second)
+    186282 mi/s (miles per second)
+    6.706 × 10^8 mph (miles per hour)
+  [Comparison as speed]
+     ≈ 2.4 × speed of light in diamond ( ≈ 1.24 × 10^8 m/s )
+  [Interpretations]
+    speed
+  [Basic unit dimensions]
+    [length] [time]^(-1)
+  [Corresponding quantities]
+    Time to travel 1 meter from t = d/v:
+ | 3.3 ns (nanoseconds)
+    Time to travel 1 kilometer from t = d/v:
+ | 3.3 μs (microseconds)
+    Slowness from s = 1/v:
+ | 3.3 × 10^-9 s/m (seconds per meter)
+
+Запрос: 
+Ответ:  343 Cal (dietary Calories)
+------------------------------------------------------------
+  [Input interpretation]
+    buckwheat | amount | 100 grams | total calories
+  [Result]
+    343 Cal (dietary Calories)
+  [Unit conversions]
+    1.4 MJ (megajoules)
+    1.4 × 10^6 J (joules)
+    1.4 × 10^13 ergs
+ (unit officially deprecated)
+    340 kcal_th (thermochemical kilocalories)
+ (unit officially deprecated)
+    340 kcal_IT (kilocalories (International Steam Table 1956))
+ (unit officially deprecated)
+  [Comparison to reference daily intake]
+     | daily amount | % daily value
+RDA | 2000 Cal/d (dietary Calories per day) | 17%
+(RDA: recommended daily allowance)
+  [Ranking among common foods]
+    fraction with higher value | 12.4%
+fraction with lower value | 87.6%
+fraction with zero value | 0%
+distribution | 
+(distribution is based on nutrient values in standard servings of 7500 common foods)
+  [Nutrition facts]
+    serving size 100 g
+total calories 343 | fat calories 28
+% daily value^* | 
+ total fat 3 g | 5%
+ saturated fat 741 mg | 4%
+ trans fat | 
+ cholesterol 0 g | 0%
+ sodium 1 mg | 0%
+ total carbohydrates 72 g | 24%
+ dietary fiber 10 g | 40%
+ sugar | 
+ protein 13 g | 26%
+ calcium 2% | iron 12% 
+ thiamin 7% | riboflavin 25% 
+ niacin 35% | vitamin B6 10% 
+ folate 8% | phosphorus 35% 
+ magnesium 58% | zinc 16% 
+*percent daily values are based on a 2000 calorie diet
+  [Daily value ranking]
+     | value | % daily value
+magnesium | 231 mg | 58%
+copper | 1.1 mg | 55%
+dietary fiber | 10 g | 40%
+ | ⋮ | 
+vitamin A | 0 IU | 0%
+cholesterol | 0 g | 0%
+  [Highest nutrients compared to other foods]
+     | amount | % daily value | foods distribution | rank
+magnesium | 231 mg | 58% | | 98%
+copper | 1.1 mg | 55% | | 97.5%
+dietary fiber | 10 g | 40% | | 96%
+(distributions from log nutrient values in standard servings of 7500 common foods)
+  [Calories]
+     | value | % daily value
+total calories | 343 Cal | 17%
+fat calories | 28 Cal | 
+  [Physical properties]
+    mass | 100 grams
+serving volume | 139 mL (milliliters)
+serving density | 0.72 g/cm^3 (grams per cubic centimeter)
+
+Запрос: 
+Ответ:  d/dx(sin(x) e^x) = e^x (sin(x) + cos(x))
+------------------------------------------------------------
+  [Derivative]
+    d/dx(sin(x) e^x) = e^x (sin(x) + cos(x))
+  [Expanded form]
+    e^x sin(x) + e^x cos(x)
+  [Alternate forms]
+    sqrt(2) e^x sin(x + π/4)
+    (1/2 + i/2) e^((1 - i) x) + (1/2 - i/2) e^((1 + i) x)
+  [Roots]
+    x = π n - π/4, n element Z
+  [Properties as a real function]
+    R (all real numbers)
+    R (all real numbers)
+    surjective onto R
+  [Series expansion at x = 0]
+    1 + 2 x + x^2 - x^4/6 + O(x^5)
+(Taylor series)
+  [Indefinite integral]
+    integral e^x (cos(x) + sin(x)) dx = e^x sin(x) + constant
+  [Local minima]
+    min{e^x (sin(x) + cos(x))} = -e^(2 π n - π/2) at x = -π/2 + 2 π n for integer n
+  [Local maxima]
+    max{e^x (sin(x) + cos(x))} = e^(1/2 π (4 n + 1)) at x = π/2 + 2 π n for integer n
+  [Limit]
+    lim_(x->-∞) e^x (cos(x) + sin(x)) = 0
+  [Definite integral]
+    integral_(-π/4)^((3 π)/4) e^x (cos(x) + sin(x)) dx = (e^(-π/4) (1 + e^π))/sqrt(2)≈7.78289

@@ -1,0 +1,82 @@
+{
+  "input": "",
+  "primary_result": "d/dx(sin(x) e^x) = e^x (sin(x) + cos(x))",
+  "pods": [
+    {
+      "title": "Derivative",
+      "plaintext": [
+        "d/dx(sin(x) e^x) = e^x (sin(x) + cos(x))"
+      ]
+    },
+    {
+      "title": "Plots",
+      "plaintext": [
+        "",
+        ""
+      ]
+    },
+    {
+      "title": "Expanded form",
+      "plaintext": [
+        "e^x sin(x) + e^x cos(x)"
+      ]
+    },
+    {
+      "title": "Alternate forms",
+      "plaintext": [
+        "sqrt(2) e^x sin(x + π/4)",
+        "(1/2 + i/2) e^((1 - i) x) + (1/2 - i/2) e^((1 + i) x)"
+      ]
+    },
+    {
+      "title": "Roots",
+      "plaintext": [
+        "x = π n - π/4, n element Z"
+      ]
+    },
+    {
+      "title": "Properties as a real function",
+      "plaintext": [
+        "R (all real numbers)",
+        "R (all real numbers)",
+        "surjective onto R"
+      ]
+    },
+    {
+      "title": "Series expansion at x = 0",
+      "plaintext": [
+        "1 + 2 x + x^2 - x^4/6 + O(x^5)\n(Taylor series)"
+      ]
+    },
+    {
+      "title": "Indefinite integral",
+      "plaintext": [
+        "integral e^x (cos(x) + sin(x)) dx = e^x sin(x) + constant"
+      ]
+    },
+    {
+      "title": "Local minima",
+      "plaintext": [
+        "min{e^x (sin(x) + cos(x))} = -e^(2 π n - π/2) at x = -π/2 + 2 π n for integer n"
+      ]
+    },
+    {
+      "title": "Local maxima",
+      "plaintext": [
+        "max{e^x (sin(x) + cos(x))} = e^(1/2 π (4 n + 1)) at x = π/2 + 2 π n for integer n"
+      ]
+    },
+    {
+      "title": "Limit",
+      "plaintext": [
+        "lim_(x->-∞) e^x (cos(x) + sin(x)) = 0"
+      ]
+    },
+    {
+      "title": "Definite integral",
+      "plaintext": [
+        "integral_(-π/4)^((3 π)/4) e^x (cos(x) + sin(x)) dx = (e^(-π/4) (1 + e^π))/sqrt(2)≈7.78289"
+      ]
+    }
+  ]
+}

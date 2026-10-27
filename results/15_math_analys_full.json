@@ -1,0 +1,319 @@
+{
+  "queryresult": {
+    "success": true,
+    "error": false,
+    "numpods": 12,
+    "datatypes": "D",
+    "parsetiming": 0.315,
+    "parsetimedout": false,
+    "id": "Zx94GDc3I3g=6:eJxTTMoPSmNkYGAoZgESHvk5KWlMIJ42kHBOzEkuzUksSQ1ILCpOTXDOzytJzStJgAsjWC4QTaxAIiQzN7UYYiIzkAjOzCsGcSoQKgLyy1OLwIKuECkICQCwjSDn",
+    "kernelId": "396",
+    "processId": 851091,
+    "version": "2.6",
+    "inputstring": "derivative of sin(x) * e^x",
+    "sbsallowed": false,
+    "parentId": "80958296-347d-4c0e-b75f-0b9787a30c77",
+    "requestId": "80958296-347d-4c0e-b75f-0b9787a30c77",
+    "pods": [
+      {
+        "title": "Derivative",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "d/dx(sin(x) e^x) = e^x (sin(x) + cos(x))"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Derivative",
+        "id": "Input",
+        "position": 10,
+        "primary": true,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Plots",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": ""
+          },
+          {
+            "title": "",
+            "plaintext": ""
+          }
+        ],
+        "numsubpods": 2,
+        "error": false,
+        "scanner": "Plotter",
+        "id": "Plot",
+        "position": 100.5,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Expanded form",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "e^x sin(x) + e^x cos(x)"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Simplification",
+        "id": "ExpandedForm",
+        "position": 450.1578947368421,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Alternate forms",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "sqrt(2) e^x sin(x + π/4)"
+          },
+          {
+            "title": "",
+            "plaintext": "(1/2 + i/2) e^((1 - i) x) + (1/2 - i/2) e^((1 + i) x)"
+          }
+        ],
+        "numsubpods": 2,
+        "error": false,
+        "scanner": "Simplification",
+        "id": "AlternateForm",
+        "position": 450.7894736842105,
+        "expressiontypes": [
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          }
+        ]
+      },
+      {
+        "title": "Roots",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "x = π n - π/4, n element Z",
+            "infos": {
+              "text": "Z is the set of integers",
+              "links": [
+                {
+                  "url": "http://reference.wolfram.com/language/ref/Integers.html",
+                  "text": "Documentation",
+                  "title": "Documentation"
+                },
+                {
+                  "url": "http://mathworld.wolfram.com/Z.html",
+                  "text": "Definition",
+                  "title": "MathWorld"
+                }
+              ]
+            }
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Reduce",
+        "id": "SymbolicSolution",
+        "position": 1341,
+        "primary": true,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "Approximate form",
+            "input": "SymbolicSolution__Approximate form"
+          }
+        ]
+      },
+      {
+        "title": "Properties as a real function",
+        "subpods": [
+          {
+            "title": "Domain",
+            "plaintext": "R (all real numbers)"
+          },
+          {
+            "title": "Range",
+            "plaintext": "R (all real numbers)"
+          },
+          {
+            "title": "Surjectivity",
+            "plaintext": "surjective onto R",
+            "infos": {
+              "text": "R is the set of real numbers",
+              "links": [
+                {
+                  "url": "http://reference.wolfram.com/language/ref/Reals.html",
+                  "text": "Documentation",
+                  "title": "Documentation"
+                },
+                {
+                  "url": "http://mathworld.wolfram.com/R.html",
+                  "text": "Definition",
+                  "title": "MathWorld"
+                }
+              ]
+            }
+          }
+        ],
+        "numsubpods": 3,
+        "error": false,
+        "scanner": "FunctionProperties",
+        "id": "PropertiesAsARealFunction",
+        "position": 1363,
+        "expressiontypes": [
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          }
+        ]
+      },
+      {
+        "title": "Series expansion at x = 0",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "1 + 2 x + x^2 - x^4/6 + O(x^5)\n(Taylor series)",
+            "infos": {
+              "links": {
+                "url": "http://mathworld.wolfram.com/Big-ONotation.html",
+                "text": "Big‐O notation"
+              }
+            }
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Series",
+        "id": "SeriesExpansionAtx=0",
+        "position": 1610,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Indefinite integral",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "integral e^x (cos(x) + sin(x)) dx = e^x sin(x) + constant"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Integral",
+        "id": "IndefiniteIntegral",
+        "position": 1810,
+        "primary": true,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Local minima",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "min{e^x (sin(x) + cos(x))} = -e^(2 π n - π/2) at x = -π/2 + 2 π n for integer n"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "GlobalExtrema",
+        "id": "LocalMinimum",
+        "position": 2011.03,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "Approximate form",
+            "input": "LocalMinimum__Approximate form"
+          }
+        ]
+      },
+      {
+        "title": "Local maxima",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "max{e^x (sin(x) + cos(x))} = e^(1/2 π (4 n + 1)) at x = π/2 + 2 π n for integer n"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "GlobalExtrema",
+        "id": "LocalMaximum",
+        "position": 2011.04,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "Approximate form",
+            "input": "LocalMaximum__Approximate form"
+          }
+        ]
+      },
+      {
+        "title": "Limit",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "lim_(x->-∞) e^x (cos(x) + sin(x)) = 0"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "GlobalExtrema",
+        "id": "Limit",
+        "position": 2070,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Definite integral",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "integral_(-π/4)^((3 π)/4) e^x (cos(x) + sin(x)) dx = (e^(-π/4) (1 + e^π))/sqrt(2)≈7.78289"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "InterestingDefiniteIntegrals",
+        "id": "DefiniteIntegral",
+        "position": 2410,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "More digits",
+            "input": "DefiniteIntegral__More digits"
+          }
+        ]
+      }
+    ],
+    "timing": 1.519,
+    "timedout": "",
+    "timedoutpods": ""
+  }
+}

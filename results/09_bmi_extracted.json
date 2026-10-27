@@ -1,0 +1,48 @@
+{
+  "input": "",
+  "primary_result": "body mass index | 23.15",
+  "pods": [
+    {
+      "title": "Input information",
+      "plaintext": [
+        "body mass index | \nheight | 180 cm (centimeters)\nbody weight | 75 kg (kilograms)"
+      ]
+    },
+    {
+      "title": "Result",
+      "plaintext": [
+        "body mass index | 23.15"
+      ]
+    },
+    {
+      "title": "Equation",
+      "plaintext": [
+        "BMI = W/H^2 | \nBMI | body mass index\nH | height\nW | body weight\n(based on Quetelet's formula)"
+      ]
+    },
+    {
+      "title": "International weight classification",
+      "plaintext": [
+        "normal range (18.5-25)"
+      ]
+    },
+    {
+      "title": "BMI prime",
+      "plaintext": [
+        "0.926"
+      ]
+    },
+    {
+      "title": "BMI map",
+      "plaintext": [
+        ""
+      ]
+    },
+    {
+      "title": "Comparison to USA population",
+      "plaintext": [
+        " | 95% reference range | percentile rank | z-score | distribution\nheight | (150 to 189) cm (centimeters) | 85.2% | 1.1 | \nweight | (49 to 128) kg (kilograms) | 44.5% | -0.27 | \nbody mass index | (19 to 44) | 22.1% | -0.78 | "
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "queryresult": {
+    "success": true,
+    "error": false,
+    "numpods": 6,
+    "datatypes": "CalendarEvent",
+    "parsetiming": 0.371,
+    "parsetimedout": false,
+    "id": "ChEmgMUHp6U=6:eJyNj8sKwjAQReMT/AyXbsRfKLUgKChNV646bROMxEQ6E0W/3hkEcdnN5c7jXGaWTSztSCmFU5Zd9J0Vg2uWHHybPJA5QY+mzmMgE6j+tcWZ0EFfPLiPC0ayRPEG5Fo7lpTNkJTM3y+wZXdsrqYlPWEoxCeuhsDVWW42veNlZQXFOUsRyNFLyys5m+9AqoND0jM2e3hD0HJzBcThxJWQZUJ0YNU/8AH9TFUa",
+    "kernelId": "343",
+    "processId": 697839,
+    "version": "2.6",
+    "inputstring": "current time in Kazan",
+    "sbsallowed": false,
+    "userinfoused": [
+      {
+        "name": "Country"
+      },
+      {
+        "name": "TimeZone"
+      }
+    ],
+    "parentId": "199c0915-c282-4add-8b82-be8d5d3a02d4",
+    "requestId": "199c0915-c282-4add-8b82-be8d5d3a02d4",
+    "pods": [
+      {
+        "title": "Input interpretation",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "current time in Kazan, Kazan', Russia"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Identity",
+        "id": "Input",
+        "position": 1,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Result",
+        "subpods": [
+          {
+            "title": "",
+            "primary": true,
+            "plaintext": "8:56:19 pm MSK | Tuesday, October 27, 2026"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Identity",
+        "id": "Result",
+        "position": 2,
+        "primary": true,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Time offset from CET",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "+2 hours"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Date",
+        "id": "TimeOffsets",
+        "position": 1201,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Clocks",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "Moscow\n\n8:56:19 pm MSK\nTuesday, October 27 Doetinchem, Netherlands\n\n6:56:19 pm CET\nTuesday, October 27"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Date",
+        "id": "ClockImages",
+        "position": 1202,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Time until midnight (MSK)",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "3 hours 3 minutes 41 seconds"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Date",
+        "id": "TimeUntilMidnight",
+        "position": 2050,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Current Greenwich mean time",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "5:56:19 pm GMT | Tuesday, October 27, 2026"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Date",
+        "id": "CurrentGMTTime",
+        "position": 3000,
+        "expressiontypes": {
+          "name": "Grid"
+        }
+      }
+    ],
+    "assumptions": [
+      {
+        "type": "SubCategory",
+        "word": "Kazan",
+        "template": "Assuming ${desc1}. Use ${desc2} instead",
+        "count": 2,
+        "values": [
+          {
+            "name": "{Kazan, Tatarstan, Russia}",
+            "desc": "Kazan (Russia)",
+            "input": "%2ADPClash.CityE.Kazan-_%2A%2AKazan.Tatarstan.Russia--"
+          },
+          {
+            "name": "{Kazan, Ankara, Turkey}",
+            "desc": "Kazan (Turkey)",
+            "input": "%2ADPClash.CityE.Kazan-_%2A%2AKazan.Ankara.Turkey--"
+          }
+        ]
+      }
+    ],
+    "timing": 0.924,
+    "timedout": "",
+    "timedoutpods": ""
+  }
+}

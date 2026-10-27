@@ -1,0 +1,24 @@
+{
+  "input": "",
+  "primary_result": "kinetic energy | 250 J (joules)\n= 0.06944 W h (watt hours)\n= 1.56 × 10^12 GeV (gigaelectronvolts)",
+  "pods": [
+    {
+      "title": "Input information",
+      "plaintext": [
+        "kinetic energy | \nmass | 5 kg (kilograms)\nvelocity | 10 m/s (meters per second)"
+      ]
+    },
+    {
+      "title": "Result",
+      "plaintext": [
+        "kinetic energy | 250 J (joules)\n= 0.06944 W h (watt hours)\n= 1.56 × 10^12 GeV (gigaelectronvolts)"
+      ]
+    },
+    {
+      "title": "Equation",
+      "plaintext": [
+        "K = (m v^2)/2 | \nK | kinetic energy\nm | mass\nv | velocity\n(the energy of an object due to its motion)"
+      ]
+    }
+  ]
+}

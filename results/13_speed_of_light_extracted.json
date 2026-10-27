@@ -1,0 +1,47 @@
+{
+  "input": "",
+  "primary_result": "2.998 × 10^8 m/s (meters per second)",
+  "pods": [
+    {
+      "title": "Input interpretation",
+      "plaintext": [
+        "c (speed of light)"
+      ]
+    },
+    {
+      "title": "Value",
+      "plaintext": [
+        "2.998 × 10^8 m/s (meters per second)",
+        "299792 km/s (kilometers per second)",
+        "186282 mi/s (miles per second)",
+        "6.706 × 10^8 mph (miles per hour)"
+      ]
+    },
+    {
+      "title": "Comparison as speed",
+      "plaintext": [
+        " ≈ 2.4 × speed of light in diamond ( ≈ 1.24 × 10^8 m/s )"
+      ]
+    },
+    {
+      "title": "Interpretations",
+      "plaintext": [
+        "speed"
+      ]
+    },
+    {
+      "title": "Basic unit dimensions",
+      "plaintext": [
+        "[length] [time]^(-1)"
+      ]
+    },
+    {
+      "title": "Corresponding quantities",
+      "plaintext": [
+        "Time to travel 1 meter from t = d/v:\n | 3.3 ns (nanoseconds)",
+        "Time to travel 1 kilometer from t = d/v:\n | 3.3 μs (microseconds)",
+        "Slowness from s = 1/v:\n | 3.3 × 10^-9 s/m (seconds per meter)"
+      ]
+    }
+  ]
+}

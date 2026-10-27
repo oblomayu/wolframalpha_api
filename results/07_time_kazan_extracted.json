@@ -1,0 +1,42 @@
+{
+  "input": "",
+  "primary_result": "8:56:19 pm MSK | Tuesday, October 27, 2026",
+  "pods": [
+    {
+      "title": "Input interpretation",
+      "plaintext": [
+        "current time in Kazan, Kazan', Russia"
+      ]
+    },
+    {
+      "title": "Result",
+      "plaintext": [
+        "8:56:19 pm MSK | Tuesday, October 27, 2026"
+      ]
+    },
+    {
+      "title": "Time offset from CET",
+      "plaintext": [
+        "+2 hours"
+      ]
+    },
+    {
+      "title": "Clocks",
+      "plaintext": [
+        "Moscow\n\n8:56:19 pm MSK\nTuesday, October 27 Doetinchem, Netherlands\n\n6:56:19 pm CET\nTuesday, October 27"
+      ]
+    },
+    {
+      "title": "Time until midnight (MSK)",
+      "plaintext": [
+        "3 hours 3 minutes 41 seconds"
+      ]
+    },
+    {
+      "title": "Current Greenwich mean time",
+      "plaintext": [
+        "5:56:19 pm GMT | Tuesday, October 27, 2026"
+      ]
+    }
+  ]
+}

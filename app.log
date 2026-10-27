@@ -1,0 +1,156 @@
+2026-10-27 20:46:44,834 [INFO] __main__: ======================================================================
+2026-10-27 20:46:44,834 [INFO] __main__: Выполняется запрос [01_math_integral]: integrate x^2 sin^3 x dx
+2026-10-27 20:46:44,834 [INFO] client: Запрос: integrate x^2 sin^3 x dx
+2026-10-27 20:46:49,696 [INFO] processor: Полный ответ сохранён: results/01_math_integral_full.json
+2026-10-27 20:46:49,698 [INFO] processor: Извлечённые данные сохранены: results/01_math_integral_extracted.json
+2026-10-27 20:46:49,698 [INFO] __main__: ======================================================================
+2026-10-27 20:46:49,698 [INFO] __main__: Выполняется запрос [02_population_russia]: population of Russia 2024
+2026-10-27 20:46:49,698 [INFO] client: Запрос: population of Russia 2024
+2026-10-27 20:46:53,368 [INFO] processor: Полный ответ сохранён: results/02_population_russia_full.json
+2026-10-27 20:46:53,369 [INFO] processor: Извлечённые данные сохранены: results/02_population_russia_extracted.json
+2026-10-27 20:46:53,369 [INFO] __main__: ======================================================================
+2026-10-27 20:46:53,369 [INFO] __main__: Выполняется запрос [03_molar_mass_h2so4]: molar mass of H2SO4
+2026-10-27 20:46:53,370 [INFO] client: Запрос: molar mass of H2SO4
+2026-10-27 20:46:55,301 [INFO] processor: Полный ответ сохранён: results/03_molar_mass_h2so4_full.json
+2026-10-27 20:46:55,302 [INFO] processor: Извлечённые данные сохранены: results/03_molar_mass_h2so4_extracted.json
+2026-10-27 20:46:55,302 [INFO] __main__: ======================================================================
+2026-10-27 20:46:55,303 [INFO] __main__: Выполняется запрос [04_kinetic_energy]: kinetic energy of 5kg object at 10m/s
+2026-10-27 20:46:55,303 [INFO] client: Запрос: kinetic energy of 5kg object at 10m/s
+2026-10-27 20:46:57,200 [INFO] processor: Полный ответ сохранён: results/04_kinetic_energy_full.json
+2026-10-27 20:46:57,201 [INFO] processor: Извлечённые данные сохранены: results/04_kinetic_energy_extracted.json
+2026-10-27 20:46:57,201 [INFO] __main__: ======================================================================
+2026-10-27 20:46:57,202 [INFO] __main__: Выполняется запрос [05_distance_cities]: distance between Moscow and Saint Petersburg
+2026-10-27 20:46:57,202 [INFO] client: Запрос: distance between Moscow and Saint Petersburg
+2026-10-27 20:46:59,332 [INFO] processor: Полный ответ сохранён: results/05_distance_cities_full.json
+2026-10-27 20:46:59,334 [INFO] processor: Извлечённые данные сохранены: results/05_distance_cities_extracted.json
+2026-10-27 20:46:59,334 [INFO] __main__: ======================================================================
+2026-10-27 20:46:59,334 [INFO] __main__: Выполняется запрос [06_currency_usd_rub]: 100 USD to RUB
+2026-10-27 20:46:59,334 [INFO] client: Запрос: 100 USD to RUB
+2026-10-27 20:47:01,799 [INFO] processor: Полный ответ сохранён: results/06_currency_usd_rub_full.json
+2026-10-27 20:47:01,800 [INFO] processor: Извлечённые данные сохранены: results/06_currency_usd_rub_extracted.json
+2026-10-27 20:47:01,800 [INFO] __main__: ======================================================================
+2026-10-27 20:47:01,800 [INFO] __main__: Выполняется запрос [07_time_kazan]: current time in Kazan
+2026-10-27 20:47:01,800 [INFO] client: Запрос: current time in Kazan
+2026-10-27 20:47:03,624 [INFO] processor: Полный ответ сохранён: results/07_time_kazan_full.json
+2026-10-27 20:47:03,631 [INFO] processor: Извлечённые данные сохранены: results/07_time_kazan_extracted.json
+2026-10-27 20:47:03,632 [INFO] __main__: ======================================================================
+2026-10-27 20:47:03,632 [INFO] __main__: Выполняется запрос [08_distance_mars]: distance to Mars
+2026-10-27 20:47:03,632 [INFO] client: Запрос: distance to Mars
+2026-10-27 20:47:07,086 [INFO] processor: Полный ответ сохранён: results/08_distance_mars_full.json
+2026-10-27 20:47:07,087 [INFO] processor: Извлечённые данные сохранены: results/08_distance_mars_extracted.json
+2026-10-27 20:47:07,087 [INFO] __main__: ======================================================================
+2026-10-27 20:47:07,087 [INFO] __main__: Выполняется запрос [09_bmi]: body mass index 180cm 75kg
+2026-10-27 20:47:07,087 [INFO] client: Запрос: body mass index 180cm 75kg
+2026-10-27 20:47:10,638 [INFO] processor: Полный ответ сохранён: results/09_bmi_full.json
+2026-10-27 20:47:10,639 [INFO] processor: Извлечённые данные сохранены: results/09_bmi_extracted.json
+2026-10-27 20:47:10,639 [INFO] __main__: ======================================================================
+2026-10-27 20:47:10,639 [INFO] __main__: Выполняется запрос [10_translate_hello]: translate hello to Russian
+2026-10-27 20:47:10,639 [INFO] client: Запрос: translate hello to Russian
+2026-10-27 20:47:12,016 [INFO] processor: Полный ответ сохранён: results/10_translate_hello_full.json
+2026-10-27 20:47:12,017 [INFO] processor: Извлечённые данные сохранены: results/10_translate_hello_extracted.json
+2026-10-27 20:47:12,017 [INFO] __main__: ======================================================================
+2026-10-27 20:47:12,018 [INFO] __main__: Выполняется запрос [11_ecuation]: solve x^2 - 5x + 6 = 0
+2026-10-27 20:47:12,018 [INFO] client: Запрос: solve x^2 - 5x + 6 = 0
+2026-10-27 20:47:14,717 [INFO] processor: Полный ответ сохранён: results/11_ecuation_full.json
+2026-10-27 20:47:14,720 [INFO] processor: Извлечённые данные сохранены: results/11_ecuation_extracted.json
+2026-10-27 20:47:14,721 [INFO] __main__: ======================================================================
+2026-10-27 20:47:14,721 [INFO] __main__: Выполняется запрос [12_physic_const]: speed of light in km/h
+2026-10-27 20:47:14,721 [INFO] client: Запрос: speed of light in km/h
+2026-10-27 20:47:16,723 [INFO] processor: Полный ответ сохранён: results/12_physic_const_full.json
+2026-10-27 20:47:16,724 [INFO] processor: Извлечённые данные сохранены: results/12_physic_const_extracted.json
+2026-10-27 20:47:16,724 [INFO] __main__: ======================================================================
+2026-10-27 20:47:16,724 [INFO] __main__: Выполняется запрос [13_speed_of_light]: speed of light
+2026-10-27 20:47:16,724 [INFO] client: Запрос: speed of light
+2026-10-27 20:47:18,500 [INFO] processor: Полный ответ сохранён: results/13_speed_of_light_full.json
+2026-10-27 20:47:18,503 [INFO] processor: Извлечённые данные сохранены: results/13_speed_of_light_extracted.json
+2026-10-27 20:47:18,503 [INFO] __main__: ======================================================================
+2026-10-27 20:47:18,503 [INFO] __main__: Выполняется запрос [14_diet]: calories in 100 g of buckwheat
+2026-10-27 20:47:18,503 [INFO] client: Запрос: calories in 100 g of buckwheat
+2026-10-27 20:47:21,126 [INFO] processor: Полный ответ сохранён: results/14_diet_full.json
+2026-10-27 20:47:21,127 [INFO] processor: Извлечённые данные сохранены: results/14_diet_extracted.json
+2026-10-27 20:47:21,127 [INFO] __main__: ======================================================================
+2026-10-27 20:47:21,127 [INFO] __main__: Выполняется запрос [15_math_analys]: derivative of sin(x) * e^x
+2026-10-27 20:47:21,128 [INFO] client: Запрос: derivative of sin(x) * e^x
+2026-10-27 20:47:23,365 [INFO] processor: Полный ответ сохранён: results/15_math_analys_full.json
+2026-10-27 20:47:23,366 [INFO] processor: Извлечённые данные сохранены: results/15_math_analys_extracted.json
+2026-10-27 20:47:23,367 [INFO] __main__: ======================================================================
+2026-10-27 20:47:23,367 [INFO] __main__: Готово. Успешных запросов: 15, с ошибками: 0
+2026-10-27 20:47:23,367 [INFO] __main__: Отчёт сохранён: results/report.txt
+2026-10-27 20:56:01,123 [INFO] __main__: ======================================================================
+2026-10-27 20:56:01,124 [INFO] __main__: Выполняется запрос [01_math_integral]: integrate x^2 sin^3 x dx
+2026-10-27 20:56:01,124 [INFO] client: Запрос: integrate x^2 sin^3 x dx
+2026-10-27 20:56:06,253 [INFO] processor: Полный ответ сохранён: results/01_math_integral_full.json
+2026-10-27 20:56:06,254 [INFO] processor: Извлечённые данные сохранены: results/01_math_integral_extracted.json
+2026-10-27 20:56:06,254 [INFO] __main__: ======================================================================
+2026-10-27 20:56:06,254 [INFO] __main__: Выполняется запрос [02_population_russia]: population of Russia 2024
+2026-10-27 20:56:06,255 [INFO] client: Запрос: population of Russia 2024
+2026-10-27 20:56:09,841 [INFO] processor: Полный ответ сохранён: results/02_population_russia_full.json
+2026-10-27 20:56:09,842 [INFO] processor: Извлечённые данные сохранены: results/02_population_russia_extracted.json
+2026-10-27 20:56:09,842 [INFO] __main__: ======================================================================
+2026-10-27 20:56:09,842 [INFO] __main__: Выполняется запрос [03_molar_mass_h2so4]: molar mass of H2SO4
+2026-10-27 20:56:09,842 [INFO] client: Запрос: molar mass of H2SO4
+2026-10-27 20:56:11,474 [INFO] processor: Полный ответ сохранён: results/03_molar_mass_h2so4_full.json
+2026-10-27 20:56:11,477 [INFO] processor: Извлечённые данные сохранены: results/03_molar_mass_h2so4_extracted.json
+2026-10-27 20:56:11,478 [INFO] __main__: ======================================================================
+2026-10-27 20:56:11,479 [INFO] __main__: Выполняется запрос [04_kinetic_energy]: kinetic energy of 5kg object at 10m/s
+2026-10-27 20:56:11,479 [INFO] client: Запрос: kinetic energy of 5kg object at 10m/s
+2026-10-27 20:56:13,396 [INFO] processor: Полный ответ сохранён: results/04_kinetic_energy_full.json
+2026-10-27 20:56:13,396 [INFO] processor: Извлечённые данные сохранены: results/04_kinetic_energy_extracted.json
+2026-10-27 20:56:13,397 [INFO] __main__: ======================================================================
+2026-10-27 20:56:13,397 [INFO] __main__: Выполняется запрос [05_distance_cities]: distance between Moscow and Saint Petersburg
+2026-10-27 20:56:13,397 [INFO] client: Запрос: distance between Moscow and Saint Petersburg
+2026-10-27 20:56:15,580 [INFO] processor: Полный ответ сохранён: results/05_distance_cities_full.json
+2026-10-27 20:56:15,582 [INFO] processor: Извлечённые данные сохранены: results/05_distance_cities_extracted.json
+2026-10-27 20:56:15,582 [INFO] __main__: ======================================================================
+2026-10-27 20:56:15,582 [INFO] __main__: Выполняется запрос [06_currency_usd_rub]: 100 USD to RUB
+2026-10-27 20:56:15,582 [INFO] client: Запрос: 100 USD to RUB
+2026-10-27 20:56:18,030 [INFO] processor: Полный ответ сохранён: results/06_currency_usd_rub_full.json
+2026-10-27 20:56:18,033 [INFO] processor: Извлечённые данные сохранены: results/06_currency_usd_rub_extracted.json
+2026-10-27 20:56:18,033 [INFO] __main__: ======================================================================
+2026-10-27 20:56:18,033 [INFO] __main__: Выполняется запрос [07_time_kazan]: current time in Kazan
+2026-10-27 20:56:18,033 [INFO] client: Запрос: current time in Kazan
+2026-10-27 20:56:19,626 [INFO] processor: Полный ответ сохранён: results/07_time_kazan_full.json
+2026-10-27 20:56:19,628 [INFO] processor: Извлечённые данные сохранены: results/07_time_kazan_extracted.json
+2026-10-27 20:56:19,628 [INFO] __main__: ======================================================================
+2026-10-27 20:56:19,628 [INFO] __main__: Выполняется запрос [08_distance_mars]: distance to Mars
+2026-10-27 20:56:19,628 [INFO] client: Запрос: distance to Mars
+2026-10-27 20:56:22,275 [INFO] processor: Полный ответ сохранён: results/08_distance_mars_full.json
+2026-10-27 20:56:22,277 [INFO] processor: Извлечённые данные сохранены: results/08_distance_mars_extracted.json
+2026-10-27 20:56:22,277 [INFO] __main__: ======================================================================
+2026-10-27 20:56:22,277 [INFO] __main__: Выполняется запрос [09_bmi]: body mass index 180cm 75kg
+2026-10-27 20:56:22,277 [INFO] client: Запрос: body mass index 180cm 75kg
+2026-10-27 20:56:25,916 [INFO] processor: Полный ответ сохранён: results/09_bmi_full.json
+2026-10-27 20:56:25,919 [INFO] processor: Извлечённые данные сохранены: results/09_bmi_extracted.json
+2026-10-27 20:56:25,919 [INFO] __main__: ======================================================================
+2026-10-27 20:56:25,919 [INFO] __main__: Выполняется запрос [10_translate_hello]: translate hello to Russian
+2026-10-27 20:56:25,920 [INFO] client: Запрос: translate hello to Russian
+2026-10-27 20:56:27,183 [INFO] processor: Полный ответ сохранён: results/10_translate_hello_full.json
+2026-10-27 20:56:27,184 [INFO] processor: Извлечённые данные сохранены: results/10_translate_hello_extracted.json
+2026-10-27 20:56:27,184 [INFO] __main__: ======================================================================
+2026-10-27 20:56:27,184 [INFO] __main__: Выполняется запрос [11_ecuation]: solve x^2 - 5x + 6 = 0
+2026-10-27 20:56:27,184 [INFO] client: Запрос: solve x^2 - 5x + 6 = 0
+2026-10-27 20:56:28,882 [INFO] processor: Полный ответ сохранён: results/11_ecuation_full.json
+2026-10-27 20:56:28,883 [INFO] processor: Извлечённые данные сохранены: results/11_ecuation_extracted.json
+2026-10-27 20:56:28,884 [INFO] __main__: ======================================================================
+2026-10-27 20:56:28,884 [INFO] __main__: Выполняется запрос [12_physic_const]: speed of light in km/h
+2026-10-27 20:56:28,884 [INFO] client: Запрос: speed of light in km/h
+2026-10-27 20:56:30,830 [INFO] processor: Полный ответ сохранён: results/12_physic_const_full.json
+2026-10-27 20:56:30,831 [INFO] processor: Извлечённые данные сохранены: results/12_physic_const_extracted.json
+2026-10-27 20:56:30,831 [INFO] __main__: ======================================================================
+2026-10-27 20:56:30,831 [INFO] __main__: Выполняется запрос [13_speed_of_light]: speed of light
+2026-10-27 20:56:30,831 [INFO] client: Запрос: speed of light
+2026-10-27 20:56:32,524 [INFO] processor: Полный ответ сохранён: results/13_speed_of_light_full.json
+2026-10-27 20:56:32,526 [INFO] processor: Извлечённые данные сохранены: results/13_speed_of_light_extracted.json
+2026-10-27 20:56:32,527 [INFO] __main__: ======================================================================
+2026-10-27 20:56:32,527 [INFO] __main__: Выполняется запрос [14_diet]: calories in 100 g of buckwheat
+2026-10-27 20:56:32,527 [INFO] client: Запрос: calories in 100 g of buckwheat
+2026-10-27 20:56:35,557 [INFO] processor: Полный ответ сохранён: results/14_diet_full.json
+2026-10-27 20:56:35,558 [INFO] processor: Извлечённые данные сохранены: results/14_diet_extracted.json
+2026-10-27 20:56:35,558 [INFO] __main__: ======================================================================
+2026-10-27 20:56:35,559 [INFO] __main__: Выполняется запрос [15_math_analys]: derivative of sin(x) * e^x
+2026-10-27 20:56:35,559 [INFO] client: Запрос: derivative of sin(x) * e^x
+2026-10-27 20:56:37,786 [INFO] processor: Полный ответ сохранён: results/15_math_analys_full.json
+2026-10-27 20:56:37,787 [INFO] processor: Извлечённые данные сохранены: results/15_math_analys_extracted.json
+2026-10-27 20:56:37,789 [INFO] __main__: ======================================================================
+2026-10-27 20:56:37,789 [INFO] __main__: Готово. Успешных запросов: 15, с ошибками: 0
+2026-10-27 20:56:37,789 [INFO] __main__: Отчёт сохранён: results/report.txt

@@ -1,0 +1,18 @@
+{
+  "input": "",
+  "primary_result": "translate | hello | to Russian",
+  "pods": [
+    {
+      "title": "Input interpretation",
+      "plaintext": [
+        "translate | hello | to Russian"
+      ]
+    },
+    {
+      "title": "Results",
+      "plaintext": [
+        "(noun) привет | приветствие\nЗдравствуйте"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "input": "",
+  "primary_result": "integral x^2 sin^3(x) dx = 1/108 (-81 (x^2 - 2) cos(x) + (9 x^2 - 2) cos(3 x) - 6 x (sin(3 x) - 27 sin(x))) + constant",
+  "pods": [
+    {
+      "title": "Indefinite integral",
+      "plaintext": [
+        "integral x^2 sin^3(x) dx = 1/108 (-81 (x^2 - 2) cos(x) + (9 x^2 - 2) cos(3 x) - 6 x (sin(3 x) - 27 sin(x))) + constant"
+      ]
+    },
+    {
+      "title": "Plots",
+      "plaintext": [
+        "",
+        ""
+      ]
+    },
+    {
+      "title": "Series expansion of the integral at x = 0",
+      "plaintext": [
+        "40/27 + x^6/6 - x^8/16 + O(x^9)\n(Taylor series)"
+      ]
+    }
+  ]
+}

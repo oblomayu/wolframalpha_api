@@ -1,0 +1,86 @@
+{
+  "queryresult": {
+    "success": true,
+    "error": false,
+    "numpods": 3,
+    "datatypes": "",
+    "parsetiming": 0.299,
+    "parsetimedout": false,
+    "id": "Mh0nRvJ+K/8=6:eJxTTMoPSmNkYGAoZgESHvk5KWlMIB4nkPDMK0lNL0osSYUIsQKJkMzc1GIENyC/PLWoGKS9IhMkiCYDMZgZSARn5kGVgXgQJgDLzRaP",
+    "kernelId": "407",
+    "processId": 864591,
+    "version": "2.6",
+    "inputstring": "integrate x^2 sin^3 x dx",
+    "sbsallowed": false,
+    "parentId": "73af4d17-5b15-4c36-9455-49674e157f35",
+    "requestId": "73af4d17-5b15-4c36-9455-49674e157f35",
+    "pods": [
+      {
+        "title": "Indefinite integral",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "integral x^2 sin^3(x) dx = 1/108 (-81 (x^2 - 2) cos(x) + (9 x^2 - 2) cos(3 x) - 6 x (sin(3 x) - 27 sin(x))) + constant"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Integral",
+        "id": "IndefiniteIntegral",
+        "position": 10,
+        "primary": true,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Plots",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": ""
+          },
+          {
+            "title": "",
+            "plaintext": ""
+          }
+        ],
+        "numsubpods": 2,
+        "error": false,
+        "scanner": "Integral",
+        "id": "Plot",
+        "position": 100.5,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Series expansion of the integral at x = 0",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "40/27 + x^6/6 - x^8/16 + O(x^9)\n(Taylor series)",
+            "infos": {
+              "links": {
+                "url": "http://mathworld.wolfram.com/Big-ONotation.html",
+                "text": "Big‐O notation"
+              }
+            }
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Series",
+        "id": "SeriesExpansionOfTheIntegralAtx=0",
+        "position": 1610,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      }
+    ],
+    "timing": 3.465,
+    "timedout": "Integral",
+    "timedoutpods": "",
+    "recalculate": "https://gateway.wolframalpha.com/calculate/recalc?id=NWM6ZWRiMzg3MmItZWRjYS00ZmU1LWFhYzctYzM0MzMyZmY1NTIx"
+  }
+}

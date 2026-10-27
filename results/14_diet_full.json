@@ -1,0 +1,291 @@
+{
+  "queryresult": {
+    "success": true,
+    "error": false,
+    "numpods": 10,
+    "datatypes": "ExpandedFood,DietaryReference",
+    "parsetiming": 0.297,
+    "parsetimedout": false,
+    "id": "NfHSuOnNXrA=6:eJyVT7sOwjAMLA8hEIz8AAOM/AOU18AAROw1jQsRaVwlLq+vJ20lQEywnM6XnM83ONAuqQVB4JoeVqRlUi+msYcQdJxrYNyAdRiFZBgNRy/5zWbAkDQKX8vD3LDiu+gV9JaBkSgXRFJ0vDDN4/P1hMDv0LVyXIUW0y7XKLqeCLQXZY5CPfCPkyY6O8E2h/IEJb2lChr+Yt4bxW70+bNUSj2kNCUj7umBtIuWFlJXNW572FjK0PrO/a/Or4d2tZWsQpcEn9WfyjZzjg==",
+    "kernelId": "360",
+    "processId": 686169,
+    "version": "2.6",
+    "inputstring": "calories in 100 g of buckwheat",
+    "sbsallowed": false,
+    "sources": [
+      {
+        "url": "https://www6b3.wolframalpha.com/sources/ExpandedFoodDataSourceInformationNotes.html",
+        "text": "Expanded food data"
+      },
+      {
+        "url": "https://www6b3.wolframalpha.com/sources/DietaryReferenceDataSourceInformationNotes.html",
+        "text": "Dietary reference data"
+      }
+    ],
+    "parentId": "8641d393-767e-4458-ba11-52711133777a",
+    "requestId": "8641d393-767e-4458-ba11-52711133777a",
+    "pods": [
+      {
+        "title": "Input interpretation",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "buckwheat | amount | 100 grams | total calories"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Identity",
+        "id": "Input",
+        "position": 1,
+        "expressiontypes": {
+          "name": "Grid"
+        }
+      },
+      {
+        "title": "Result",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData"
+            ],
+            "plaintext": "343 Cal (dietary Calories)"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "Result",
+        "position": 10,
+        "primary": true,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Unit conversions",
+        "subpods": [
+          {
+            "title": "",
+            "plaintext": "1.4 MJ (megajoules)"
+          },
+          {
+            "title": "",
+            "plaintext": "1.4 × 10^6 J (joules)"
+          },
+          {
+            "title": "",
+            "plaintext": "1.4 × 10^13 ergs\n (unit officially deprecated)"
+          },
+          {
+            "title": "",
+            "plaintext": "340 kcal_th (thermochemical kilocalories)\n (unit officially deprecated)"
+          },
+          {
+            "title": "",
+            "plaintext": "340 kcal_IT (kilocalories (International Steam Table 1956))\n (unit officially deprecated)"
+          }
+        ],
+        "numsubpods": 5,
+        "error": false,
+        "scanner": "Unit",
+        "id": "UnitConversion",
+        "position": 2200,
+        "expressiontypes": [
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          },
+          {
+            "name": "Default"
+          }
+        ],
+        "states": [
+          {
+            "name": "More",
+            "input": "UnitConversion__More"
+          }
+        ]
+      },
+      {
+        "title": "Comparison to reference daily intake",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData",
+              "DietaryReferenceData"
+            ],
+            "plaintext": " | daily amount | % daily value\nRDA | 2000 Cal/d (dietary Calories per day) | 17%\n(RDA: recommended daily allowance)"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "RDVPod:Calories:ExpandedFoodData",
+        "position": 10080,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Ranking among common foods",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData",
+              "DietaryReferenceData"
+            ],
+            "plaintext": "fraction with higher value | 12.4%\nfraction with lower value | 87.6%\nfraction with zero value | 0%\ndistribution | \n(distribution is based on nutrient values in standard servings of 7500 common foods)"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "NutrientStatisticsPod:Calories:ExpandedFoodData",
+        "position": 10090,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "Use linear scale",
+            "input": "NutrientStatisticsPod:Calories:ExpandedFoodData__Use linear scale"
+          }
+        ]
+      },
+      {
+        "title": "Nutrition facts",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData"
+            ],
+            "plaintext": "serving size 100 g\ntotal calories 343 | fat calories 28\n% daily value^* | \n total fat 3 g | 5%\n saturated fat 741 mg | 4%\n trans fat | \n cholesterol 0 g | 0%\n sodium 1 mg | 0%\n total carbohydrates 72 g | 24%\n dietary fiber 10 g | 40%\n sugar | \n protein 13 g | 26%\n calcium 2% | iron 12% \n thiamin 7% | riboflavin 25% \n niacin 35% | vitamin B6 10% \n folate 8% | phosphorus 35% \n magnesium 58% | zinc 16% \n*percent daily values are based on a 2000 calorie diet"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "NutritionLabelSingle:ExpandedFoodData",
+        "position": 10100,
+        "expressiontypes": {
+          "name": "Default"
+        }
+      },
+      {
+        "title": "Daily value ranking",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData"
+            ],
+            "plaintext": " | value | % daily value\nmagnesium | 231 mg | 58%\ncopper | 1.1 mg | 55%\ndietary fiber | 10 g | 40%\n | ⋮ | \nvitamin A | 0 IU | 0%\ncholesterol | 0 g | 0%"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "DailyValuesRanking:ExpandedFoodData",
+        "position": 10200,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "More",
+            "input": "DailyValuesRanking:ExpandedFoodData__More"
+          }
+        ]
+      },
+      {
+        "title": "Highest nutrients compared to other foods",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData",
+              "DietaryReferenceData"
+            ],
+            "plaintext": " | amount | % daily value | foods distribution | rank\nmagnesium | 231 mg | 58% | | 98%\ncopper | 1.1 mg | 55% | | 97.5%\ndietary fiber | 10 g | 40% | | 96%\n(distributions from log nutrient values in standard servings of 7500 common foods)"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "NutrientRankingPod:ExpandedFoodData",
+        "position": 10300,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "More",
+            "input": "NutrientRankingPod:ExpandedFoodData__More"
+          }
+        ]
+      },
+      {
+        "title": "Calories",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData"
+            ],
+            "plaintext": " | value | % daily value\ntotal calories | 343 Cal | 17%\nfat calories | 28 Cal | "
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "Calories:ExpandedFoodData",
+        "position": 11400,
+        "expressiontypes": {
+          "name": "Default"
+        },
+        "states": [
+          {
+            "name": "More",
+            "input": "Calories:ExpandedFoodData__More"
+          }
+        ]
+      },
+      {
+        "title": "Physical properties",
+        "subpods": [
+          {
+            "title": "",
+            "microsources": [
+              "ExpandedFoodData"
+            ],
+            "plaintext": "mass | 100 grams\nserving volume | 139 mL (milliliters)\nserving density | 0.72 g/cm^3 (grams per cubic centimeter)"
+          }
+        ],
+        "numsubpods": 1,
+        "error": false,
+        "scanner": "Data",
+        "id": "PhysicalProperties:ExpandedFoodData",
+        "position": 12000,
+        "expressiontypes": {
+          "name": "Grid"
+        }
+      }
+    ],
+    "timing": 2.361,
+    "timedout": "",
+    "timedoutpods": ""
+  }
+}

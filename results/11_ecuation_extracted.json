@@ -1,0 +1,43 @@
+{
+  "input": "",
+  "primary_result": "x = 2",
+  "pods": [
+    {
+      "title": "Input interpretation",
+      "plaintext": [
+        "solve x^2 - 5 x + 6 = 0"
+      ]
+    },
+    {
+      "title": "Results",
+      "plaintext": [
+        "x = 2",
+        "x = 3"
+      ]
+    },
+    {
+      "title": "Root plot",
+      "plaintext": [
+        ""
+      ]
+    },
+    {
+      "title": "Number line",
+      "plaintext": [
+        ""
+      ]
+    },
+    {
+      "title": "Sum of roots",
+      "plaintext": [
+        "5"
+      ]
+    },
+    {
+      "title": "Product of roots",
+      "plaintext": [
+        "6"
+      ]
+    }
+  ]
+}

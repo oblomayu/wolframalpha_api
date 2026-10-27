@@ -1,0 +1,70 @@
+{
+  "input": "",
+  "primary_result": "343 Cal (dietary Calories)",
+  "pods": [
+    {
+      "title": "Input interpretation",
+      "plaintext": [
+        "buckwheat | amount | 100 grams | total calories"
+      ]
+    },
+    {
+      "title": "Result",
+      "plaintext": [
+        "343 Cal (dietary Calories)"
+      ]
+    },
+    {
+      "title": "Unit conversions",
+      "plaintext": [
+        "1.4 MJ (megajoules)",
+        "1.4 × 10^6 J (joules)",
+        "1.4 × 10^13 ergs\n (unit officially deprecated)",
+        "340 kcal_th (thermochemical kilocalories)\n (unit officially deprecated)",
+        "340 kcal_IT (kilocalories (International Steam Table 1956))\n (unit officially deprecated)"
+      ]
+    },
+    {
+      "title": "Comparison to reference daily intake",
+      "plaintext": [
+        " | daily amount | % daily value\nRDA | 2000 Cal/d (dietary Calories per day) | 17%\n(RDA: recommended daily allowance)"
+      ]
+    },
+    {
+      "title": "Ranking among common foods",
+      "plaintext": [
+        "fraction with higher value | 12.4%\nfraction with lower value | 87.6%\nfraction with zero value | 0%\ndistribution | \n(distribution is based on nutrient values in standard servings of 7500 common foods)"
+      ]
+    },
+    {
+      "title": "Nutrition facts",
+      "plaintext": [
+        "serving size 100 g\ntotal calories 343 | fat calories 28\n% daily value^* | \n total fat 3 g | 5%\n saturated fat 741 mg | 4%\n trans fat | \n cholesterol 0 g | 0%\n sodium 1 mg | 0%\n total carbohydrates 72 g | 24%\n dietary fiber 10 g | 40%\n sugar | \n protein 13 g | 26%\n calcium 2% | iron 12% \n thiamin 7% | riboflavin 25% \n niacin 35% | vitamin B6 10% \n folate 8% | phosphorus 35% \n magnesium 58% | zinc 16% \n*percent daily values are based on a 2000 calorie diet"
+      ]
+    },
+    {
+      "title": "Daily value ranking",
+      "plaintext": [
+        " | value | % daily value\nmagnesium | 231 mg | 58%\ncopper | 1.1 mg | 55%\ndietary fiber | 10 g | 40%\n | ⋮ | \nvitamin A | 0 IU | 0%\ncholesterol | 0 g | 0%"
+      ]
+    },
+    {
+      "title": "Highest nutrients compared to other foods",
+      "plaintext": [
+        " | amount | % daily value | foods distribution | rank\nmagnesium | 231 mg | 58% | | 98%\ncopper | 1.1 mg | 55% | | 97.5%\ndietary fiber | 10 g | 40% | | 96%\n(distributions from log nutrient values in standard servings of 7500 common foods)"
+      ]
+    },
+    {
+      "title": "Calories",
+      "plaintext": [
+        " | value | % daily value\ntotal calories | 343 Cal | 17%\nfat calories | 28 Cal | "
+      ]
+    },
+    {
+      "title": "Physical properties",
+      "plaintext": [
+        "mass | 100 grams\nserving volume | 139 mL (milliliters)\nserving density | 0.72 g/cm^3 (grams per cubic centimeter)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "input": "",
+  "primary_result": "8080.04 ₽ (Russian rubles) (26 October 2026)",
+  "pods": [
+    {
+      "title": "Input interpretation",
+      "plaintext": [
+        "convert $100 (US dollars) to Russian rubles"
+      ]
+    },
+    {
+      "title": "Result",
+      "plaintext": [
+        "8080.04 ₽ (Russian rubles) (26 October 2026)"
+      ]
+    },
+    {
+      "title": "Local currency conversion for $100 (US dollars)",
+      "plaintext": [
+        "€89.69 (euros) (27 October 2026)"
+      ]
+    },
+    {
+      "title": "Exchange history for $100 (US dollars)",
+      "plaintext": [
+        "\n1-year minimum | 7084.76 ₽ (28 May 2026 | 5 months ago)\n1-year maximum | 8729.72 ₽ (2 September 2026 | 2 months ago)\n1-year average | 7889.52 ₽ (annualized volatility: 13%)"
+      ]
+    },
+    {
+      "title": "Additional currency conversions for $100 (US dollars)",
+      "plaintext": [
+        "CNY | ￥666.75 (Chinese yuan)\nJPY | ¥15782 (Japanese yen)\nGBP | £75.03 (British pounds)\nCAD | C$140.23 (Canadian dollars)\nMXN | $1863.68 (Mexican pesos)\nGTQ | Q764.46 (Guatemala quetzales)\nCRC | ₡45521.40 (Costa Rican colones)\nHNL | L2698.33 (Honduran lempiras)\nJMD | J$15877.60 (Jamaican dollars)\nXAU | 0.02 oz (gold ounces)\nXAG | 1.86 oz (silver ounces)"
+      ]
+    }
+  ]
+}
